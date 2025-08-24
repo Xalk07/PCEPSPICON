@@ -30,7 +30,7 @@ pip install pyinstaller pillow tkinterdnd2
 Build the standalone executable:
 
 ```
-pyinstaller --onefile --noconsole --icon=PCEPSPICON.ico --add-data "base64img.txt;." PCEPSPICON_1.0.py
+pyinstaller --onefile --noconsole --icon=PCEPSPICON.ico --add-data "base64img.txt;." PCEPSPICON_1.1.py
 ```
 
 Xalk07 (+███❖) 2025
